@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KINTHALIPRANEETH
 - 👀 I’m interested in ... Tool Based
 - 🌱 I’m currently learning ... Salesforce, Mulesoft
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Getting an placement 
 - 📫 How to reach me ...
 
 <!---
